@@ -1,4 +1,4 @@
-# umee
+# Youme
 
 A social media Flutter app for saving every moment in your life, you can record a voice or a video or taking a picture and plan upcoming events
 
