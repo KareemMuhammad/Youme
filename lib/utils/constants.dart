@@ -48,7 +48,7 @@ class Utils {
   static const String DIARY_TASK = "diaryTask";
   static const String REGEX_PATTERN = r"^[\u0621-\u064A\u0660-\u0669 ]+$";
   static const String APP_ICON = "https://firebasestorage.googleapis.com/v0/b/youme-6e353.appspot.com/o/splash.png?alt=media&token=6911d743-251f-42a0-84ba-17eebc320fdf";
-  static const String SERVER_TOKEN = "AAAAPSv8TP4:APA91bFSkh2G_p9wRlNbrW0HfYVm7yMBYUFWN15HV5yVfG2NP1ykteoclm3lUtxE_-qGSngAQnJaEmMJyrtILh52wrb59oIRuqg0-ofsinD-672BmovLipDyQZEZ4bDMqMLoZHUWAhnJ";
+  static const String SERVER_TOKEN = "Your_Token";
   static FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin = FlutterLocalNotificationsPlugin();
   static const String HOME_PREFS_KEY = 'homeListViewOffset';
   static const String PUBLIC_PREFS_KEY = 'publicListViewOffset';
